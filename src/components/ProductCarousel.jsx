@@ -31,7 +31,7 @@ function ProductCarousel() {
     {
       name: "KFC Console",
       price: "$5'000.000",
-      image: "https://i.ytimg.com/vi/gdsAmyoeZkg/maxresdefault.jpg"
+      image: "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/12/KFC-game-console.jpg?w=1200&h=675&fit=crop"
     }
   ]
 
